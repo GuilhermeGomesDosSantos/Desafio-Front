@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch_frases;
+package br.com.alura.screenmatchfrases;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

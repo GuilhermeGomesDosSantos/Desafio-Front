@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch_frases.Model;
+package br.com.alura.screenmatchfrases;
 
 import jakarta.persistence.*;
 
